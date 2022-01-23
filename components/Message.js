@@ -2,7 +2,7 @@ import React from "react";
 import Moment from "react-moment";
 
 const Message = ({ msg, user1, toLang }) => {
-    let apiKey = "AIzaSyCTroqd66iEkm0hsqbz2JKKF-GtYJkPtOw";
+    let apiKey = "Concealed for security";
     if(toLang){
         const URL =
         "https://translation.googleapis.com/language/translate/v2?key=" +
